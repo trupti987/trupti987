@@ -1,7 +1,7 @@
 [![MasterHead](https://image.shutterstock.com/image-vector/banner-about-programming-coding-course-600w-1870989130.jpg)](https://trupti987.io)
 <h1 align="center">Hi 👋, I'm Trupti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programming-gif-25868426">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trupti987&label=Profile%20views&color=0e75b6&style=flat" alt="trupti987" /> </p>
 
